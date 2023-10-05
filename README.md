@@ -1,5 +1,3 @@
-
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/nwyqBwP65XCAU/giphy.gif" width="20%"/>
 </div>
@@ -8,8 +6,6 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
----
 
 # 💫 About Me:
 I'm a Full Stack Developer originally from Ukraine, currently residing in Amsterdam. <br>I'm a graduate of HackYourFuture.<br>I'm actively seeking job opportunities as a Software Engineer and I'm enthusiastic about contributing to both frontend and backend development for building web applications. <br>Coding is not just my job; it's my passion.
