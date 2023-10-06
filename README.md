@@ -8,7 +8,7 @@
 </h1>
 
 # 💫 About Me:
-I'm a Full Stack Developer originally from Ukraine, currently residing in Amsterdam. <br>I'm a graduate of HackYourFuture.<br>I'm actively seeking job opportunities as a Software Engineer and I'm enthusiastic about contributing to both frontend and backend development for building web applications. <br>Coding is not just my job; it's my passion.
+I'm a Full Stack Developer originally from Ukraine, currently residing in Amsterdam. <br>I'm a graduate of [HackYourFuture](https://www.hackyourfuture.net/).<br>I'm actively seeking job opportunities as a Software Engineer and I'm enthusiastic about contributing to both frontend and backend development for building web applications. <br>Coding is not just my job; it's my passion.
 
 
 ## 🌐 Socials:
