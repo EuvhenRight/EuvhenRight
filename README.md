@@ -150,20 +150,6 @@ Drag-and-drop CV builder with PDF export — I use it to produce my own CV.
 
 ---
 
-## 📚 Currently Learning
-
-- Deeper **Next.js 16** server-side patterns & React 19 features
-- **Python** for backend & AI/LLM tooling
-- Advanced testing strategies with **Playwright**
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EuvhenRight&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EuvhenRight&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 <p align="center">
   <i>💬 Building production apps in the React ecosystem — with AI as a first-class tool.</i><br/>
   <i>📬 Reach me at <a href="mailto:ugnivenko.ea@gmail.com">ugnivenko.ea@gmail.com</a></i>
