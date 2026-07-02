@@ -48,6 +48,7 @@ I work **AI-native**: Cursor, Claude, and Copilot are part of my daily loop for 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000?style=for-the-badge&logoColor=white)
@@ -131,11 +132,11 @@ I treat AI as an **engineering tool**, not a chatbot. It's part of how I plan, s
 In-house Property Management System for a 3-property Amsterdam hospitality group (38-room hotel + 28 apartments). Replaces vendor SaaS like RoomRaccoon/Mews. Encodes Dutch VAT/city-tax, government registration, housekeeping cadences, and live occupancy dashboards.  
 **Stack:** Next.js · TypeScript · Firebase · NextAuth · Zod · Tailwind CSS
 
-### 💆 [V2studio · Epilroom](https://v2studio.sk) · [`repo`](https://github.com/EuvhenRight/Massage)
+### 💆 [V2studio](https://v2studio.sk) · [`repo`](https://github.com/EuvhenRight/Massage)
 Multilingual booking platform for a premium studio in Bratislava. Drag-and-drop admin calendar, WhatsApp + email notifications, PDF invoicing, Playwright + Vitest test suite, GitHub Actions CI.  
 **Stack:** Next.js · TypeScript · Firebase · NextAuth v5 · next-intl · Resend · Radix UI · Framer Motion
 
-### 💇 [Hair Chief](https://blond-house.vercel.app) · [`repo`](https://github.com/EuvhenRight/Blond-house)
+### 💇 [HAIR STUDIO](https://blond-house.vercel.app) · [`repo`](https://github.com/EuvhenRight/Blond-house)
 Portfolio + online booking system for an Amsterdam hair studio. Public calendar, time-slot picker, confirmation emails, protected admin dashboard.  
 **Stack:** Next.js 16 · React 19 · TypeScript · Tailwind v4 · Firebase · FullCalendar · Resend
 
@@ -153,19 +154,13 @@ Drag-and-drop CV builder with PDF export — I use it to produce my own CV.
 
 - Deeper **Next.js 16** server-side patterns & React 19 features
 - **Python** for backend & AI/LLM tooling
-- **Dutch** 🇳🇱 (A1 → A2)
 - Advanced testing strategies with **Playwright**
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EuvhenRight&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EuvhenRight&theme=dark&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuvhenRight&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=EuvhenRight&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EuvhenRight&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -173,4 +168,3 @@ Drag-and-drop CV builder with PDF export — I use it to produce my own CV.
   <i>💬 Building production apps in the React ecosystem — with AI as a first-class tool.</i><br/>
   <i>📬 Reach me at <a href="mailto:ugnivenko.ea@gmail.com">ugnivenko.ea@gmail.com</a></i>
 </p>
-
